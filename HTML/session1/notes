@@ -1,0 +1,21 @@
+-- w3schools ==> https://www.w3schools.com/html/default.asp
+-- javatpoint ==> https://www.javatpoint.com/html-tutorial
+
+-- inline Elements ==> span , a
+-- block Elements ==> h1:h6 , p , table , div
+
+
+-- attributes of a tag ==> href="link of page" , target=""
+-- target attribute ==> _blank , _self (default)
+
+-- img attributes ==> src (image path) , width(px , %) , height(px , %)
+
+-- table attribute ==> border
+
+-- th , td attributes ==> colspan , rowsapn
+
+-- ol attribute ==> type = A , a , I , i , 1 (default)
+
+-- ul attribute ==> type = circle , square , disc (default)
+
+
