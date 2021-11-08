@@ -1,0 +1,11 @@
+inline Elements ==> input , label , textarea
+block element ==> form
+
+form attributes ==> autocomplete(off , on)
+input & textarea attributes ==> name , readonly ,  disabled , placeholder , value , maxlength , minlength
+input attribute ==> type (text , email , password , number , radio , date , datetime-local , month , range , color , file ) , autocomplete
+textarea attribute => rows , cols
+input type radio/checkbox ==> checked
+input type range ==> max , min , step 
+input type file / select ==> multiple
+option ==> selected
